@@ -9,42 +9,6 @@ h1{
   text-align: center;
   font-size: 3em;
 }
-.typed-cursor{
-    opacity: 1;
-    -webkit-animation: blink 0.7s infinite;
-    -moz-animation: blink 0.7s infinite;
-    animation: blink 0.7s infinite;
-    line-height: 150px;
-    height: 150px;
-    font-family: "Lucida Grande";
-    font-size: 50px;
-}
-@keyframes blink{
-    0% { opacity:1; }
-    50% { opacity:0; }
-    100% { opacity:1; }
-}
-@-webkit-keyframes blink{
-    0% { opacity:1; }
-    50% { opacity:0; }
-    100% { opacity:1; }
-}
-@-moz-keyframes blink{
-    0% { opacity:1; }
-    50% { opacity:0; }
-    100% { opacity:1; }
-}
-.title-section .title-text{
-    margin-top: 150px;
-    font-family: "Lucida Grande";
-    font-size: 75px;
-    margin-bottom: 0px;
-}
-.title-section .title-moving-text{
-    margin-top: 25px;
-    font-family: "Lucida Grande";
-    font-size: 75px;
-}
 #About{
   height: auto;
   position: relative;
