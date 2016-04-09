@@ -1,0 +1,167 @@
+body{
+  font-family: Lucida Grande;
+  background-color: #E6E6E6;
+  color: black;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+h1{
+  text-align: center;
+  font-size: 3em;
+}
+#About{
+  height: auto;
+  position: relative;
+  clear: both;
+  margin-top: 50px;
+  border-top: 1px solid #A9A9A9;
+}
+#About a{
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+#About h2{
+  font-size: 2em;
+  color: #009900;
+}
+#ProgrammingSkillsList{
+  height: auto;
+  position: relative;
+  clear: both;
+  margin-top: 50px;
+  border-top: 1px solid #A9A9A9;
+}
+#ProgrammingSkillsList h2{
+  font-size: 2em;
+  color: #CC0000;
+}
+#LanguagesList{
+  float: left;
+  width: 49.5%;
+  height: auto;
+  border-right: 1px solid #A9A9A9;
+}
+#PlatformsList{
+  float: right;
+  width: 49.5%;
+  height: auto;
+}
+#Java{
+  margin-left: 20px;
+  width: auto;
+}
+#Swift{
+  margin-left: 20px;
+  width: auto;
+}
+#HTMLCSS{
+  margin-left: 20px;
+  width: auto;
+}
+#JavaScript{
+  margin-left: 20px;
+  width: auto;
+}
+#OtherLangs{
+  margin-left: 20px;
+  width: auto;
+}
+#Mobile{
+  margin-left: 20px;
+  width: auto;
+}
+#Desktop{
+  margin-left: 20px;
+  width: auto;
+}
+#Web{
+  margin-left: 20px;
+  width: auto;
+}
+#Android{
+  margin-left: 20px;
+  width: auto;
+}
+#ios{
+  margin-left: 20px;
+  width: auto;
+}
+#OtherSkills{
+  height: auto;
+  position: relative;
+  clear: both;
+  border-top: 1px solid #A9A9A9;
+}
+#OtherSkills h2{
+  font-size: 2em;
+  color: #0066CC;
+}
+#MartialArts{
+  float: left;
+  width: 25%;
+  height: auto;
+}
+#BoysScouts{
+  float: left;
+  width: 25%;
+  height: auto;
+}
+#PublicSpeaking{
+  float: left;
+  width: 25%;
+  height: auto;
+}
+#ProblemSolving{
+  float: left;
+  width: 25%;
+  height: auto;
+}
+#Experiences{
+  height: auto;
+  position: relative;
+  clear: both;
+  border-top: 1px solid #A9A9A9;
+}
+#Experiences h2{
+  font-size: 2em;
+  color: #8A00E6;
+}
+#Experiences a{
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+#Internships{
+  float: left;
+  width: 33.333%;
+  height: auto;
+}
+#Jobs{
+  float: left;
+  width: 33.333%;
+  height: auto;
+}
+#Volunteering{
+  float: left;
+  width: 33.333%;
+  height: auto;
+}
+#Internship1{
+  margin-left: 20px;
+  width: auto;
+}
+#Job1{
+  margin-left: 20px;
+  width: auto;
+}
+#Volunteer1{
+  margin-left: 20px;
+  width: auto;
+}
+#Copyright{
+  height: auto;
+  position: relative;
+  clear: both;
+  border-top: 1px solid #A9A9A9;
+}
