@@ -9,6 +9,34 @@ h1{
   text-align: center;
   font-size: 3em;
 }
+.typed-cursor{
+    opacity: 1;
+    -webkit-animation: blink 1s infinite;
+    -moz-animation: blink 1s infinite;
+    animation: blink 1s infinite;
+    line-height: 150px;
+    height: 150px;
+    font-size: 4em;
+}
+@keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-webkit-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-moz-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+.moving-text{
+    margin-top: opx;
+    font-size: 4em;
+}
 #About{
   height: auto;
   position: relative;
