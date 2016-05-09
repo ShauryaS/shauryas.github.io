@@ -1,5 +1,5 @@
 body{
-  font-family: sans-serif;
+  font-family: 'Roboto', sans-serif;
   background-color: #E6E6E6;
   color: black;
   margin-left: 50px;
@@ -192,4 +192,22 @@ h1{
   position: relative;
   clear: both;
   border-top: 1px solid #A9A9A9;
+}
+.gRed{
+  color: #EE422E;
+}
+.gOrange{
+  color: #FF8000;
+}
+.gGreen{
+  color: #2FA851;
+}
+.gBlue{
+  color: #3883FA;
+}
+.gNavy{
+  color: #001a70;
+}
+.gPurple{
+  color: #9932CC;
 }
