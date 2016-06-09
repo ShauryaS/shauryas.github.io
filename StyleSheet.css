@@ -153,6 +153,16 @@ h1{
 }
 #Experiences h2{
   font-size: 2em;
+  color: #cc00cc;
+}
+#SchoolAct{
+  height: auto;
+  position: relative;
+  clear: both;
+  border-top: 1px solid #A9A9A9;
+}
+#SchoolAct h2{
+  font-size: 2em;
   color: #8A00E6;
 }
 #Experiences a{
