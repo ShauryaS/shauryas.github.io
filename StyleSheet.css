@@ -1,7 +1,7 @@
 body{
   font-family: 'Roboto', sans-serif;
-  background-color: #E6E6E6;
-  color: black;
+  background-color: #0e1a25;
+  color: white;
   margin-left: 50px;
   margin-right: 50px;
 }
@@ -197,7 +197,7 @@ h1{
   margin-left: 20px;
   width: auto;
 }
-#Copyright{
+#Info{
   height: auto;
   position: relative;
   clear: both;
@@ -220,4 +220,7 @@ h1{
 }
 .gPurple{
   color: #9932CC;
+}
+.gWhite{
+  color: #FFFFFF;
 }
